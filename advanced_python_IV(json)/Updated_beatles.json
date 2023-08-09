@@ -1,0 +1,35 @@
+{
+      "John": {
+            "full name": "John Lennon",
+            "role": [
+                  "Singer",
+                  "Song Writer",
+                  "Guitarist"
+            ],
+            "years active": "1960\u20131970"
+      },
+      "Paul": {
+            "full name": "Paul McCartney",
+            "role": [
+                  "Singer",
+                  "Song Writer",
+                  "Guitarist"
+            ],
+            "years active": "1960\u20131970"
+      },
+      "George": {
+            "full name": "George Harrison",
+            "role": [
+                  "Singer",
+                  "Guitarist"
+            ],
+            "years active": "1960\u20131970"
+      },
+      "Ringo": {
+            "full name": "Ringo Starr",
+            "role": [
+                  "Drummer"
+            ],
+            "years active": "1960\u20131970"
+      }
+}
